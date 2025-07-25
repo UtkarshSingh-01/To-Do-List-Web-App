@@ -5,10 +5,6 @@ A fully responsive and interactive To-Do List web application built using **HTML
 ## 🚀 Features
 
 - ✅ Add and manage daily tasks
-- 🕓 Set **optional due dates** for tasks
-- 📅 Sort tasks by:
-  - Date added
-  - Due date
 - 🗃️ Separate sections for:
   - **Pending tasks**
   - **Completed tasks**
@@ -31,7 +27,6 @@ This project was developed as part of a **Web Development & Designing Internship
 - DOM manipulation
 - State management with localStorage
 - Responsive UI/UX design
-- Task sorting and filtering
 
 ## 📸 Screenshots
 
@@ -41,4 +36,4 @@ This project was developed as part of a **Web Development & Designing Internship
 
 ## 🌐 Live Demo
 
-> *[Click here to view the live demo](#)* *(https://utkarshsingh-01.github.io/To-Do-List-Web-App/)*
+> *(https://utkarshsingh-01.github.io/To-Do-List-Web-App/)*
